@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u5165\u95E8\\\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC251117-385B-4413-A551-714C397C80D3}|\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF.vcxproj|E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u5165\u95E8\\\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF\\\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC251117-385B-4413-A551-714C397C80D3}|\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u5165\u95E8\\\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF\\\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "RelativeDocumentMoniker": "\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "ToolTip": "E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u5165\u95E8\\\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF\\\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF.cpp*",
+              "RelativeToolTip": "\u901A\u8BAF\u5F55\u7BA1\u7406\u7CFB\u7EDF.cpp*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAewC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-29T03:22:23.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿  通讯录管理系统.cpp
+E:\Code\Visual Studio\c++\C++入门\通讯录管理系统\通讯录管理系统.cpp(45,4): error C2664: “void show_person(Addressbooks *)”: 无法将参数 1 从“void (__cdecl *)(Addressbooks *)”转换为“Addressbooks *”
+      E:\Code\Visual Studio\c++\C++入门\通讯录管理系统\通讯录管理系统.cpp(45,16):
+      没有使该转换得以执行的上下文
+      E:\Code\Visual Studio\c++\C++入门\通讯录管理系统\通讯录管理系统.cpp(20,6):
+      参见“show_person”的声明
+      E:\Code\Visual Studio\c++\C++入门\通讯录管理系统\通讯录管理系统.cpp(45,4):
+      尝试匹配参数列表“(void (__cdecl *)(Addressbooks *))”时
+  
+E:\Code\Visual Studio\c++\C++入门\通讯录管理系统\通讯录管理系统.cpp(48,4): error C2660: “del_person”: 函数不接受 0 个参数
+      E:\Code\Visual Studio\c++\C++入门\通讯录管理系统\通讯录管理系统.cpp(21,6):
+      参见“del_person”的声明
+      E:\Code\Visual Studio\c++\C++入门\通讯录管理系统\通讯录管理系统.cpp(48,4):
+      尝试匹配参数列表“()”时
+  
+E:\Code\Visual Studio\c++\C++入门\通讯录管理系统\通讯录管理系统.cpp(49,4): error C2143: 语法错误: 缺少“;”(在“break”的前面)

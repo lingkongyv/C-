@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u6838\u5FC3\\01 \u5185\u5B58\u56DB\u533A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7E3144-04D7-4772-B5B6-42FC93027FB3}|01 \u5185\u5B58\u56DB\u533A.vcxproj|E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u6838\u5FC3\\01 \u5185\u5B58\u56DB\u533A\\20 \u6587\u672C\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7E3144-04D7-4772-B5B6-42FC93027FB3}|01 \u5185\u5B58\u56DB\u533A.vcxproj|solutionrelative:20 \u6587\u672C\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7E3144-04D7-4772-B5B6-42FC93027FB3}|01 \u5185\u5B58\u56DB\u533A.vcxproj|E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u6838\u5FC3\\01 \u5185\u5B58\u56DB\u533A\\21 \u4E8C\u8FDB\u5236\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B7E3144-04D7-4772-B5B6-42FC93027FB3}|01 \u5185\u5B58\u56DB\u533A.vcxproj|solutionrelative:21 \u4E8C\u8FDB\u5236\u6587\u4EF6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20 \u6587\u672C\u6587\u4EF6.cpp",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u6838\u5FC3\\01 \u5185\u5B58\u56DB\u533A\\20 \u6587\u672C\u6587\u4EF6.cpp",
+              "RelativeDocumentMoniker": "20 \u6587\u672C\u6587\u4EF6.cpp",
+              "ToolTip": "E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u6838\u5FC3\\01 \u5185\u5B58\u56DB\u533A\\20 \u6587\u672C\u6587\u4EF6.cpp",
+              "RelativeToolTip": "20 \u6587\u672C\u6587\u4EF6.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T13:49:23.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "21 \u4E8C\u8FDB\u5236\u6587\u4EF6.cpp",
+              "DocumentMoniker": "E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u6838\u5FC3\\01 \u5185\u5B58\u56DB\u533A\\21 \u4E8C\u8FDB\u5236\u6587\u4EF6.cpp",
+              "RelativeDocumentMoniker": "21 \u4E8C\u8FDB\u5236\u6587\u4EF6.cpp",
+              "ToolTip": "E:\\Code\\Visual Studio\\c\u002B\u002B\\C\u002B\u002B\u6838\u5FC3\\01 \u5185\u5B58\u56DB\u533A\\21 \u4E8C\u8FDB\u5236\u6587\u4EF6.cpp",
+              "RelativeToolTip": "21 \u4E8C\u8FDB\u5236\u6587\u4EF6.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T13:14:36.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
