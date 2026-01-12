@@ -2,6 +2,7 @@
 using namespace std;
 #include<set>
 #include<string>
+
 class Person
 {
 public:
@@ -16,7 +17,7 @@ public:
 class ComparePerson
 {
 public:
-	bool operator()(const Person&p1, const Person& p2) const
+	bool operator()(const Person& p1, const Person& p2) const
 	{
 		//°´ÕÕÄêÁä½µÐò
 		return p1.age > p2.age;

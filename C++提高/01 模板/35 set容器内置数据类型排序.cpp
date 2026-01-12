@@ -2,15 +2,6 @@
 using namespace std;
 #include<set>
 
-void printSet02(set<int>& s)
-{
-	for (set<int>::iterator it = s.begin(); it != s.end(); it++)
-	{
-		cout << *it << " ";
-	}
-	cout << endl;
-}
-
 class Mycompare
 {
 public:
@@ -19,6 +10,15 @@ public:
 		return v1 > v2;
 	}
 };
+
+void printSet02(set<int, Mycompare>& s)
+{
+	for (set<int, Mycompare>::iterator it = s.begin(); it != s.end(); it++)
+	{
+		cout << *it << " ";
+	}
+	cout << endl;
+}
 
 int main35()
 {
@@ -29,7 +29,7 @@ int main35()
 	s1.insert(52);
 	s1.insert(22);
 	s1.insert(13);
-	printSet02(s1);
+	
 
 	//指定排序规则为从大到小
 	set<int, Mycompare>s2;
@@ -37,11 +37,7 @@ int main35()
 	s2.insert(52);
 	s2.insert(22);
 	s2.insert(13);
-	for (set<int, Mycompare>::iterator it = s2.begin(); it != s2.end(); it++)
-	{
-		cout << *it << " ";
-	}
-	cout << endl;
+	printSet02(s2);
 
 	return 0;
 }

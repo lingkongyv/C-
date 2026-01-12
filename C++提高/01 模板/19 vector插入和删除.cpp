@@ -28,7 +28,7 @@ int main19()
 
 	//插入    第一个参数是迭代器
 	v1.insert(v1.begin(), 34);
-	v1.insert(v1.begin(), 3, 674);
+	v1.insert(v1.begin(), 3, 674);  //n个elem
 	print01(v1);
 
 	//删除  参数也是迭代器

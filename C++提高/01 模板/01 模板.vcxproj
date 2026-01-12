@@ -160,6 +160,10 @@
     <ClCompile Include="35 set容器内置数据类型排序.cpp" />
     <ClCompile Include="36 set容器自定义数据类型排序.cpp" />
     <ClCompile Include="37 pair对组.cpp" />
+    <ClCompile Include="38 map容器.cpp" />
+    <ClCompile Include="39 map容器排序.cpp" />
+    <ClCompile Include="40 案例-员工分组.cpp" />
+    <ClCompile Include="41 STL函数对象.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
