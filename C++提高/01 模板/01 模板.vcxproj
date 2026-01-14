@@ -164,6 +164,18 @@
     <ClCompile Include="39 map容器排序.cpp" />
     <ClCompile Include="40 案例-员工分组.cpp" />
     <ClCompile Include="41 STL函数对象.cpp" />
+    <ClCompile Include="42 算术仿函数.cpp" />
+    <ClCompile Include="43 关系仿函数.cpp" />
+    <ClCompile Include="44 逻辑仿函数.cpp" />
+    <ClCompile Include="45 遍历for_each和transform.cpp" />
+    <ClCompile Include="46 查找find和find_if.cpp" />
+    <ClCompile Include="47 adjacent_find.cpp" />
+    <ClCompile Include="48 binary_search二分查找.cpp" />
+    <ClCompile Include="49 count和count_if.cpp" />
+    <ClCompile Include="50 排序sort.cpp" />
+    <ClCompile Include="51  常用拷贝和替换算法.cpp" />
+    <ClCompile Include="52 常用算术生成算法.cpp" />
+    <ClCompile Include="53 常用集合算法.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
