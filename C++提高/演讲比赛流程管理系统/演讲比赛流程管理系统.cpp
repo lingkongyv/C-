@@ -28,7 +28,7 @@ int main()
             case 3:
                 SM.clearRecord();
                 break;
-            defaul:
+            default:
                 system("cls");
                 break;
         }

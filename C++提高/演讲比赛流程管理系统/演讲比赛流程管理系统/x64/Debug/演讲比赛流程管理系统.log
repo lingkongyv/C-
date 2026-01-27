@@ -1,4 +1,6 @@
-﻿  speechManager.cpp
+﻿  speaker.cpp
+  speechManager.cpp
+  演讲比赛流程管理系统.cpp
 E:\Code\Visual Studio\c++\C++提高\演讲比赛流程管理系统\speechManager.cpp(223,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
 E:\Code\Visual Studio\Community\VC\Tools\MSVC\14.44.35207\include\numeric(33,26): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
 E:\Code\Visual Studio\Community\VC\Tools\MSVC\14.44.35207\include\numeric(33,26): warning C4244:         with
@@ -24,4 +26,6 @@ E:\Code\Visual Studio\Community\VC\Tools\MSVC\14.44.35207\include\numeric(33,26)
               _Fn=std::plus<void>
           ]
   
+E:\Code\Visual Studio\c++\C++提高\演讲比赛流程管理系统\演讲比赛流程管理系统.cpp(31,13): warning C4102: “defaul”: 未引用的标签
+  正在生成代码...
   演讲比赛流程管理系统.vcxproj -> E:\Code\Visual Studio\c++\C++提高\演讲比赛流程管理系统\x64\Debug\演讲比赛流程管理系统.exe
